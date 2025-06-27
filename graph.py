@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 categories = ['A', 'B', 'C', 'D']
-values = [5, 7, 8, 4]
+values = [5, 8, 8 4]
 
 plt.bar(categories, values)
 plt.title('Basic Bar Plot')
